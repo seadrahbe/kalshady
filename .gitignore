@@ -1,0 +1,17 @@
+# secrets / local config
+.env
+.env.live
+.env.*.local
+# python
+.venv/
+__pycache__/
+*.pyc
+# node / build output
+node_modules/
+dist/
+frontend/dist/
+# vendored upstream (clone separately)
+vendor-shadybank/
+# misc
+.DS_Store
+.claude/

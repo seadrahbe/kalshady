@@ -1,4 +1,4 @@
-import C from '../../App.jsx';
+import { C } from '../../App.jsx';
 
 /* ─── MINI SPARKLINE ─── */
 function Sparkline({ yes, id, width = 80, height = 32 }) {
